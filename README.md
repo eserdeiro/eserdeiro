@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Node.JS-43853D?style=flat-square&logo=node.js&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=Nest.js&logoColor=white"/></a>
   
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
