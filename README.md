@@ -1,7 +1,7 @@
 <div align="center">  
   <br>
 
-  ### Emanuel Serdeiro - Mobile Dev 
+  ## Emanuel Serdeiro - Mobile Dev 
  
   ### Once I've Used ✏️
   ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
