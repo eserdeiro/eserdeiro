@@ -1,7 +1,7 @@
 <div align="center">  
   <br>
 
-  ## Emanuel Serdeiro - Mobile Dev 
+  ## Emanuel Serdeiro | Mobile Dev (Android & iOS) | Learning React & React Native
  
   ### Once I've Used ✏️
   ![Flutter](https://img.shields.io/badge/flutter-blue.svg?style=for-the-badge&logo=flutter&logoColor=white)
