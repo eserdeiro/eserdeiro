@@ -21,9 +21,8 @@
   <br>
 <div>
   <br>
-   <img align="left" width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=eserdeiro&theme=dark&layout=compact&langs_count=10"/>
-   <img align="right" width="53%" src="https://github-readme-stats.vercel.app/api?username=eserdeiro&show_icons=true&theme=dark&hide="/>
-</div>
+   <img align="center" width=100%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eserdeiro&theme=dark&layout=compact&langs_count=10"/>
+ </div>
 
    <br>
    
