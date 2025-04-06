@@ -20,9 +20,11 @@
 
   <br>
 <div>
-  <br>
-   <img align="center" width=100%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eserdeiro&theme=dark&layout=compact&langs_count=10"/>
- </div>
+<div align="center">
+  <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eserdeiro&theme=dark&layout=compact&langs_count=10"/>
+</div>
+
+
 
    <br>
    
