@@ -14,10 +14,5 @@
   ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 </div>
 
-  <br>
-    <div>
-    <div align="center">
-      <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eserdeiro&theme=dark&layout=compact&langs_count=10"/>
-    </div>
-   <br>
+ 
 <br/>
